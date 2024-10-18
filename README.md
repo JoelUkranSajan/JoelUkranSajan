@@ -28,20 +28,17 @@ Hey there! I’m a passionate **full-stack developer** and **AI enthusiast** wit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a" alt="Python"/>
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=2bbc8a" alt="C++"/>
+  <img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=2bbc8a" alt="C#"/>
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=2bbc8a" alt="Java"/>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=2bbc8a" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=2bbc8a" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=2bbc8a" alt="C#"/>
-  <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=2bbc8a" alt="Go"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&color=2bbc8a" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&color=2bbc8a" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot&color=2bbc8a" alt="SpringBoot"/>
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=2bbc8a" alt="React"/>
   <img src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=2bbc8a" alt="Django"/>
-  <img src="https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&color=2bbc8a" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Framework-Xamarin-informational?style=flat&logo=xamarin&color=2bbc8a" alt="Xamarin"/>
+  <img src="https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=2bbc8a" alt="Flask"/>
   <img src="https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&color=2bbc8a" alt=".NET"/>
 </p>
 
@@ -49,7 +46,12 @@ Hey there! I’m a passionate **full-stack developer** and **AI enthusiast** wit
   <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=2bbc8a" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=2bbc8a" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=2bbc8a" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&color=2bbc8a" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Database-AzureSQL-informational?style=flat&logo=microsoft-azure&color=2bbc8a" alt="Azure SQL"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&color=2bbc8a" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&color=2bbc8a" alt="Azure"/>
 </p>
 
 <p align="center">
@@ -57,7 +59,6 @@ Hey there! I’m a passionate **full-stack developer** and **AI enthusiast** wit
   <img src="https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes&color=2bbc8a" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/DevOps-Terraform-informational?style=flat&logo=terraform&color=2bbc8a" alt="Terraform"/>
   <img src="https://img.shields.io/badge/DevOps-Ansible-informational?style=flat&logo=ansible&color=2bbc8a" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&color=2bbc8a" alt="Jenkins"/>
 </p>
 
 ---
